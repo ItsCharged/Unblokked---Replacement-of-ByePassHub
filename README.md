@@ -1,2 +1,4 @@
-# Unblokked---Replacement-of-ByePassHub
-Unblokked is the acitvely maintained and new Version of ByePassHub 
+# Unblokked - Replacement of ByePassHub
+Mainted by ItsCharged and SpaceFox, this is the current version of ByePassHub.
+
+Open it [here](youtube.com)
