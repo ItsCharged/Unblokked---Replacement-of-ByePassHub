@@ -1,7 +1,7 @@
 # Unblokked - Replacement of ByePassHub
 Mainted by ItsCharged and SpaceFox, this is the current version of ByePassHub.
 
-Open it [here]()
+Open it [here](itscharged.github.io/unblokked )
 
 Q&A:
 Q: Why is it replacing ByePassHub?
