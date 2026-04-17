@@ -1,6 +1,8 @@
 # Unblokked - Replacement of ByePassHub
 Mainted by ItsCharged and SpaceFox, this is the current version of ByePassHub.
 
+!! IM EXPIRIENCING ISSUES REGARDING THE LOAD. THIS IS KNOWN AND IM WORKING ON A FIX. THE LOAD MIGHT TAKE 10-20 SECONDS!!
+
 Open it [here](https://itscharged.github.io/unblokked )
 
 Q&A:
