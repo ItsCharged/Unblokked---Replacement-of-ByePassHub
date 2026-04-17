@@ -2,9 +2,9 @@
 
 Maintained by [ItsCharged](https://github.com/ItsCharged) and [SpaceFox](https://github.com/Space-Fox1), this is the a maintained version of ByePassHub. <br>
 
-!! IM EXPIRIENCING ISSUES REGARDING THE LOAD. THIS IS KNOWN AND IM WORKING ON A FIX. THE LOAD MIGHT TAKE 10-20 SECONDS!!
+##ITS LIVE!
 
-Open it [here](https://itscharged.github.io/unblokked) <br> <br>
+Open it [here](https://unblokkked.web.app/) <br> <br>
 
 Q&A:<br>
 Q: Why is it replacing ByePassHub? <br>
